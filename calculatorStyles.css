@@ -51,7 +51,7 @@ form input.equal{
   width:145px ;  
 }
 
-form.operator{
+.formcls  .operator{
   color: #33ffd8;
 
 }
